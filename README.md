@@ -1,2 +1,2 @@
-# chat_gbt_visual
-Generate step-by-step explanations for any prompt tailored to the user’s knowledge level, and automatically create Manim animations to visualize the solutions.
+# visual_chatbot
+Chatbot permet de Générer des explications étape par étape pour n’importe quelle consigne, adaptées au niveau de connaissances de l’utilisateur, et créer automatiquement des animations Manim pour visualiser les solutions.
